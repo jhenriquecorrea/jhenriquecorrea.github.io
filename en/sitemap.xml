@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://rodolfovalentim.github.io/</loc>
+    <lastmod>2019-04-17T14:10:31-03:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://rodolfovalentim.github.io/pt-br/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rodolfovalentim.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://rodolfovalentim.github.io/research/</loc>
+    <lastmod>2019-04-17T14:10:31-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://rodolfovalentim.github.io/pt-br/research/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rodolfovalentim.github.io/research/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://rodolfovalentim.github.io/series/hugo/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rodolfovalentim.github.io/posts/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rodolfovalentim.github.io/posts/render-latex-using-katex/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rodolfovalentim.github.io/series/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://rodolfovalentim.github.io/pt-br/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rodolfovalentim.github.io/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://rodolfovalentim.github.io/series/theme/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rodolfovalentim.github.io/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://rodolfovalentim.github.io/pt-br/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rodolfovalentim.github.io/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://rodolfovalentim.github.io/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://rodolfovalentim.github.io/pt-br/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rodolfovalentim.github.io/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://rodolfovalentim.github.io/projects/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://rodolfovalentim.github.io/pt-br/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rodolfovalentim.github.io/projects/"
+                />
+  </url>
+  
+</urlset>

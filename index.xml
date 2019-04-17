@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio&#39;s Rodolfo Valentim</title>
+    <link>https://rodolfovalentim.github.io/</link>
+    <description>Recent content on Portfolio&#39;s Rodolfo Valentim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 17 Apr 2019 14:10:31 -0300</lastBuildDate>
+    
+	<atom:link href="https://rodolfovalentim.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Research</title>
+      <link>https://rodolfovalentim.github.io/research/</link>
+      <pubDate>Wed, 17 Apr 2019 14:10:31 -0300</pubDate>
+      
+      <guid>https://rodolfovalentim.github.io/research/</guid>
+      <description>RDNA Balance: Load Balancing by Isolation of Elephant Flows using Strict Source Routing (2019). Rodolfo V. Valentim, Cristina. K. Dominicini, Diego R. Mafioletti1, Rodolfo S. Villaca, Moises R. N. Ribeiro, Magnos Martinello - LANCOMM Student Workshop (Latin American Student Workshop on Data Communication Networks), 2019, Gramado - RS
+ RDNA Balance: Balanceamento de Carga por Isolamento de Fluxos Elefante em Data Centers com Roteamento na Origem (2019). Rodolfo V. Valentim, Cristina.</description>
+    </item>
+    
+    <item>
+      <title>Render LaTeX using KaTeX</title>
+      <link>https://rodolfovalentim.github.io/posts/render-latex-using-katex/</link>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rodolfovalentim.github.io/posts/render-latex-using-katex/</guid>
+      <description>Enable katex by adding katex = &amp;quot;true&amp;quot; to the front matter
++++ katex = &amp;#34;true&amp;#34; +++ It&amp;rsquo;s almost a dropin alternative to the mathjax solution,you should just choose one of them.
+Inline math looks like this
+This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} =1$ This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$
+and with math blocks:
+$$\sum_{n=1}^{\infty} 2^{-n} =1$$ $$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$</description>
+    </item>
+    
+    <item>
+      <title>About Rodolfo</title>
+      <link>https://rodolfovalentim.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rodolfovalentim.github.io/about/</guid>
+      <description>Hugo is a static site engine written in Go.
+It makes use of a variety of open source projects including:
+ Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
+Setup Some fun facts about Hugo:
+ Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://rodolfovalentim.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rodolfovalentim.github.io/contact/</guid>
+      <description>Follow me, @Rodolfo77835271.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://rodolfovalentim.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rodolfovalentim.github.io/projects/</guid>
+      <description>Nothing to see here&amp;hellip; Move along!</description>
+    </item>
+    
+  </channel>
+</rss>

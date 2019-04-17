@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portifólio Rodolfo Valentim</title>
+    <link>https://rodolfovalentim.github.io/pt-br/</link>
+    <description>Recent content on Portifólio Rodolfo Valentim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 17 Apr 2019 14:10:31 -0300</lastBuildDate>
+    
+	<atom:link href="https://rodolfovalentim.github.io/pt-br/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Research</title>
+      <link>https://rodolfovalentim.github.io/pt-br/research/</link>
+      <pubDate>Wed, 17 Apr 2019 14:10:31 -0300</pubDate>
+      
+      <guid>https://rodolfovalentim.github.io/pt-br/research/</guid>
+      <description>RDNA Balance: Load Balancing by Isolation of Elephant Flows using Strict Source Routing (2019). Rodolfo V. Valentim, Cristina. K. Dominicini, Diego R. Mafioletti1, Rodolfo S. Villaca, Moises R. N. Ribeiro, Magnos Martinello - LANCOMM Student Workshop (Latin American Student Workshop on Data Communication Networks), 2019, Gramado - RS
+ RDNA Balance: Balanceamento de Carga por Isolamento de Fluxos Elefante em Data Centers com Roteamento na Origem (2019). Rodolfo V. Valentim, Cristina.</description>
+    </item>
+    
+    <item>
+      <title>Contato</title>
+      <link>https://rodolfovalentim.github.io/pt-br/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rodolfovalentim.github.io/pt-br/contact/</guid>
+      <description>Me siga em @Rodolfo77835271.</description>
+    </item>
+    
+    <item>
+      <title>Projetos</title>
+      <link>https://rodolfovalentim.github.io/pt-br/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rodolfovalentim.github.io/pt-br/projects/</guid>
+      <description>Em construção&amp;hellip; Aguarde!</description>
+    </item>
+    
+    <item>
+      <title>Sobre Rodolfo</title>
+      <link>https://rodolfovalentim.github.io/pt-br/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rodolfovalentim.github.io/pt-br/about/</guid>
+      <description>Em construção&amp;hellip; Aguarde!</description>
+    </item>
+    
+  </channel>
+</rss>
