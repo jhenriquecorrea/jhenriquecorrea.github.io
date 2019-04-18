@@ -41,11 +41,10 @@ $$\sum_{n=1}^{\infty} 2^{-n} =1$$ $$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$</descript
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rodolfovalentim.github.io/about/</guid>
-      <description>Hugo is a static site engine written in Go.
-It makes use of a variety of open source projects including:
- Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
-Setup Some fun facts about Hugo:
- Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
+      <description>Education  M.Sc. in Computer Sciente - Computer Networks Federal University of Espírito Santo - Vitória, ES, Brazil 2018 - Present
+ Graduated in Computer Engineering Federal University of Espírito Santo - Vitória, ES, Brazil 2012 - 2017
+  Professional and Academic Experience  Researcher/MSc. student at the UFES Software Defined Networks Research Group NERDS, UFES - Vitória, ES, Brazil 2017 - Present
+ Research project relate to Load Balancing in Cloud Environment  Research project relate to Service Function Chaining in Cloud Environment  Research project on Network Functions Virtualization using OpenStack   Researcher/B.</description>
     </item>
     
     <item>
@@ -63,7 +62,8 @@ Setup Some fun facts about Hugo:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rodolfovalentim.github.io/projects/</guid>
-      <description>Nothing to see here&amp;hellip; Move along!</description>
+      <description>Projects  Playground - Interactive Technology Playground is a tool for building applications that use interactive totems to amplify event results. Our applications are flexible and allow our clients to transform real goals (in participation in branded exhibition events) into playful and fun dynamics to attract the target audience and achieve maximum results
+ vCPE - Network equipment virtualization Development of a vCPE (Virtual Customer Premises Equipment) prototype using the OpenStack platform as a cloud resource manager.</description>
     </item>
     
   </channel>
