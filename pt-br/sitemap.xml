@@ -18,6 +18,21 @@
   </url>
   
   <url>
+    <loc>https://jhenriquecorrea.github.io/pt-br/posts/render-latex-using-katex/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jhenriquecorrea.github.io/posts/render-latex-using-katex/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://jhenriquecorrea.github.io/pt-br/posts/render-latex-using-katex/"
+                />
+  </url>
+  
+  <url>
     <loc>https://jhenriquecorrea.github.io/pt-br/contact/</loc>
     <xhtml:link
                 rel="alternate"
@@ -28,6 +43,22 @@
                 rel="alternate"
                 hreflang="pt-br"
                 href="https://jhenriquecorrea.github.io/pt-br/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://jhenriquecorrea.github.io/pt-br/series/hugo/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jhenriquecorrea.github.io/series/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://jhenriquecorrea.github.io/pt-br/series/hugo/"
                 />
   </url>
   
@@ -48,6 +79,22 @@
   </url>
   
   <url>
+    <loc>https://jhenriquecorrea.github.io/pt-br/posts/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jhenriquecorrea.github.io/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://jhenriquecorrea.github.io/pt-br/posts/"
+                />
+  </url>
+  
+  <url>
     <loc>https://jhenriquecorrea.github.io/pt-br/projects/</loc>
     <xhtml:link
                 rel="alternate"
@@ -63,6 +110,7 @@
   
   <url>
     <loc>https://jhenriquecorrea.github.io/pt-br/series/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -87,6 +135,22 @@
                 rel="alternate"
                 hreflang="pt-br"
                 href="https://jhenriquecorrea.github.io/pt-br/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://jhenriquecorrea.github.io/pt-br/series/theme/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jhenriquecorrea.github.io/series/theme/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://jhenriquecorrea.github.io/pt-br/series/theme/"
                 />
   </url>
   

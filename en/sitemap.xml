@@ -20,6 +20,16 @@
   <url>
     <loc>https://jhenriquecorrea.github.io/posts/render-latex-using-katex/</loc>
     <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://jhenriquecorrea.github.io/pt-br/posts/render-latex-using-katex/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jhenriquecorrea.github.io/posts/render-latex-using-katex/"
+                />
   </url>
   
   <url>
@@ -54,6 +64,16 @@
     <loc>https://jhenriquecorrea.github.io/series/hugo/</loc>
     <lastmod>2019-03-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://jhenriquecorrea.github.io/pt-br/series/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jhenriquecorrea.github.io/series/hugo/"
+                />
   </url>
   
   <url>
@@ -76,6 +96,16 @@
     <loc>https://jhenriquecorrea.github.io/posts/</loc>
     <lastmod>2019-03-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://jhenriquecorrea.github.io/pt-br/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jhenriquecorrea.github.io/posts/"
+                />
   </url>
   
   <url>
@@ -112,6 +142,16 @@
     <loc>https://jhenriquecorrea.github.io/series/theme/</loc>
     <lastmod>2019-03-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://jhenriquecorrea.github.io/pt-br/series/theme/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jhenriquecorrea.github.io/series/theme/"
+                />
   </url>
   
 </urlset>
