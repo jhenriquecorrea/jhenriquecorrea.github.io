@@ -50,7 +50,9 @@ $$\sum_{n=1}^{\infty} 2^{-n} =1$$ $$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$</descript
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jhenriquecorrea.github.io/pt-br/projects/</guid>
-      <description> vCPE - Virtualização de equipamentos de rede Desenvolvimento de um protótipo de vCPE (&amp;ldquo;Virtual Customer Premises Equipment&amp;rdquo;) utilizando a plataforma OpenStack como gerenciador de recursos na nuvem.  </description>
+      <description> On Machine Learning DDoS Attack Detection and Identification from Cloud Computing Telemetry A tese de Ph.D. utiliza a telemetria do OpenStack para detectar e identificar, utilizando Aprendizado de Máquina, ataques de DDoS.
+ vCPE - Virtualização de equipamentos de rede Desenvolvimento de um protótipo de vCPE (&amp;ldquo;Virtual Customer Premises Equipment&amp;rdquo;) utilizando a plataforma OpenStack como gerenciador de recursos na nuvem.
+  </description>
     </item>
     
     <item>
