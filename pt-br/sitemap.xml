@@ -47,20 +47,6 @@
   </url>
   
   <url>
-    <loc>https://jhenriquecorrea.github.io/pt-br/datasets/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jhenriquecorrea.github.io/datasets/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://jhenriquecorrea.github.io/pt-br/datasets/"
-                />
-  </url>
-  
-  <url>
     <loc>https://jhenriquecorrea.github.io/pt-br/series/hugo/</loc>
     <lastmod>2019-03-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -119,6 +105,20 @@
                 rel="alternate"
                 hreflang="pt-br"
                 href="https://jhenriquecorrea.github.io/pt-br/projects/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://jhenriquecorrea.github.io/pt-br/datasets/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jhenriquecorrea.github.io/datasets/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://jhenriquecorrea.github.io/pt-br/datasets/"
                 />
   </url>
   
