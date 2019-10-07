@@ -45,6 +45,15 @@ $$\sum_{n=1}^{\infty} 2^{-n} =1$$ $$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$</descript
     </item>
     
     <item>
+      <title>Datasets</title>
+      <link>https://jhenriquecorrea.github.io/pt-br/datasets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jhenriquecorrea.github.io/pt-br/datasets/</guid>
+      <description> Datasets  On Machine Learning DDoS Attack Detection and Identification from Cloud Computing Telemetry Datasets disponíveis:  Treino Teste Label: 0 - Not attack 1 - Attack Label2: 0 - Client 1 - TCP SYN Flood 2 - HTTP GET Flood   </description>
+    </item>
+    
+    <item>
       <title>Projetos</title>
       <link>https://jhenriquecorrea.github.io/pt-br/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

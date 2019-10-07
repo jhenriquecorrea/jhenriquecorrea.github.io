@@ -61,6 +61,20 @@
   </url>
   
   <url>
+    <loc>https://jhenriquecorrea.github.io/datasets/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://jhenriquecorrea.github.io/pt-br/datasets/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jhenriquecorrea.github.io/datasets/"
+                />
+  </url>
+  
+  <url>
     <loc>https://jhenriquecorrea.github.io/series/hugo/</loc>
     <lastmod>2019-03-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
