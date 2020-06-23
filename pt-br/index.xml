@@ -62,7 +62,7 @@ $$\sum_{n=1}^{\infty} 2^{-n} =1$$ $$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$</descript
       
       <guid>https://jhenriquecorrea.github.io/pt-br/datasets/</guid>
       <description> Datasets  On Machine Learning DDoS Attack Detection and Identification from Cloud Computing Telemetry Datasets disponíveis:  Treino Teste  Ping_Flood
-Label: 0 - Not attack 1 - Attack Label2: 0 - Client 1 - TCP SYN Flood 2 - HTTP GET Flood 3 - Ping Flood (Apenas no dataset Ping_Flood)    </description>
+Label: 0 - Not attack 1 - Attack Label2: 0 - Client 1 - TCP SYN Flood 2 - HTTP GET Flood 3 - Ping Flood (Apenas no dataset Ping_Flood)  Code-ML Code-selectKBest   </description>
     </item>
     
     <item>
