@@ -1,16 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portifólio João Henrique Corrêa</title>
     <link>https://jhenriquecorrea.github.io/pt-br/</link>
     <description>Recent content on Portifólio João Henrique Corrêa</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 17 Apr 2019 14:10:31 -0300</lastBuildDate>
-    
-	<atom:link href="https://jhenriquecorrea.github.io/pt-br/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 20 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://jhenriquecorrea.github.io/pt-br/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Research</title>
       <link>https://jhenriquecorrea.github.io/pt-br/research/</link>
@@ -18,7 +13,7 @@
       
       <guid>https://jhenriquecorrea.github.io/pt-br/research/</guid>
       <description>On Machine Learning DoS Attack Identification from Cloud Computing Telemetry (2019). Joao H. Correa, Patrick Marques Ciarelli, Moises R. N. Ribeiro, Rodolfo da Silva Villaca - LANCOMM Student Workshop (Latin American Student Workshop on Data Communication Networks), 2019, Gramado - RS
- Dispositivos conectados a serviço web em nuvem: complementariedade entre infraestrutura e seletividade para proteção contra DDoS. (2018). Joao H. Correa, Epaminondas Sousa Junior, Pablo dos Santos, Vivek Nigam, Iguatemi E.</description>
+Dispositivos conectados a serviço web em nuvem: complementariedade entre infraestrutura e seletividade para proteção contra DDoS. (2018). Joao H. Correa, Epaminondas Sousa Junior, Pablo dos Santos, Vivek Nigam, Iguatemi E.</description>
     </item>
     
     <item>
@@ -30,9 +25,9 @@
       <description>Enable katex by adding katex = &amp;quot;true&amp;quot; to the front matter
 +++ katex = &amp;#34;true&amp;#34; +++ It&amp;rsquo;s almost a dropin alternative to the mathjax solution,you should just choose one of them.
 Inline math looks like this
-This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} =1$ This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$
+This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$ This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$
 and with math blocks:
-$$\sum_{n=1}^{\infty} 2^{-n} =1$$ $$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$</description>
+$$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$ $$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$</description>
     </item>
     
     <item>
@@ -41,18 +36,7 @@ $$\sum_{n=1}^{\infty} 2^{-n} =1$$ $$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$</descript
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jhenriquecorrea.github.io/pt-br/contact/</guid>
-      <description>E-mail, jhenrique [at] gmail dot com E-mail, joao.h.correa [at] aluno dot ufes dot br \</description>
-    </item>
-    
-    <item>
-      <title>Projetos</title>
-      <link>https://jhenriquecorrea.github.io/pt-br/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jhenriquecorrea.github.io/pt-br/projects/</guid>
-      <description> On Machine Learning DDoS Attack Detection and Identification from Cloud Computing Telemetry A tese de Ph.D. utiliza a telemetria do OpenStack para detectar e identificar, utilizando Aprendizado de Máquina, ataques de DDoS.
- vCPE - Virtualização de equipamentos de rede Desenvolvimento de um protótipo de vCPE (&amp;ldquo;Virtual Customer Premises Equipment&amp;rdquo;) utilizando a plataforma OpenStack como gerenciador de recursos na nuvem.
-  </description>
+      <description>E-mail, jhenrique [at] gmail dot com \ E-mail, joao.h.correa [at] aluno dot ufes dot br \</description>
     </item>
     
     <item>
@@ -61,8 +45,17 @@ $$\sum_{n=1}^{\infty} 2^{-n} =1$$ $$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$</descript
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jhenriquecorrea.github.io/pt-br/datasets/</guid>
-      <description> Datasets  On Machine Learning DDoS Attack Detection and Identification from Cloud Computing Telemetry Datasets disponíveis:  Treino Teste  Ping_Flood
-Label: 0 - Not attack 1 - Attack Label2: 0 - Client 1 - TCP SYN Flood 2 - HTTP GET Flood 3 - Ping Flood (Apenas no dataset Ping_Flood)  Code-ML Code-selectKBest   </description>
+      <description>Datasets On Machine Learning DDoS Attack Detection and Identification from Cloud Computing Telemetry \ Datasets disponíveis: Treino Teste \ Ping_Flood\ Label: \ 0 - Not attack \ 1 - Attack \ Label2: \ 0 - Client \ 1 - TCP SYN Flood \ 2 - HTTP GET Flood \ 3 - Ping Flood (Apenas no dataset Ping_Flood) \ Code-ML Code-selectKBest </description>
+    </item>
+    
+    <item>
+      <title>Projetos</title>
+      <link>https://jhenriquecorrea.github.io/pt-br/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jhenriquecorrea.github.io/pt-br/projects/</guid>
+      <description>On Machine Learning DDoS Attack Detection and Identification from Cloud Computing Telemetry \ A tese de Ph.D. utiliza a telemetria do OpenStack para detectar e identificar, utilizando Aprendizado de Máquina, ataques de DDoS.
+vCPE - Virtualização de equipamentos de rede \ Desenvolvimento de um protótipo de vCPE (&amp;ldquo;Virtual Customer Premises Equipment&amp;rdquo;) utilizando a plataforma OpenStack como gerenciador de recursos na nuvem.</description>
     </item>
     
     <item>
@@ -71,10 +64,10 @@ Label: 0 - Not attack 1 - Attack Label2: 0 - Client 1 - TCP SYN Flood 2 - HTTP G
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jhenriquecorrea.github.io/pt-br/about/</guid>
-      <description>Educação  Doutorado em Informática - Redes de Computadores Universidade Federal do Espírito Santo - Vitória, ES, Brasil 2017 - Presente
- Mestrado em Informática - Redes de Computadores Universidade Federal da Paraíba - João Pessoa, PB, Brasil 2015 - 2017
- Graduado em Redes de Computadores Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - João Pessoa, PB, Brasil 2012 - 2015
-  Experiência Profissional e Acadêmica  Pesquisador/Ph.</description>
+      <description>Educação Doutorado em Informática - Redes de Computadores \ Universidade Federal do Espírito Santo - Vitória, ES, Brasil \ 2017 - Presente
+Mestrado em Informática - Redes de Computadores \ Universidade Federal da Paraíba - João Pessoa, PB, Brasil \ 2015 - 2017
+Graduado em Redes de Computadores \ Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - João Pessoa, PB, Brasil \ 2012 - 2015
+Experiência Profissional e Acadêmica Pesquisador/Ph.</description>
     </item>
     
   </channel>

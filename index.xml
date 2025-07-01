@@ -1,16 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio&#39;s Joao Henrique Correa</title>
     <link>https://jhenriquecorrea.github.io/</link>
     <description>Recent content on Portfolio&#39;s Joao Henrique Correa</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 17 Apr 2019 14:10:31 -0300</lastBuildDate>
-    
-	<atom:link href="https://jhenriquecorrea.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 20 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://jhenriquecorrea.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Research</title>
       <link>https://jhenriquecorrea.github.io/research/</link>
@@ -18,7 +13,7 @@
       
       <guid>https://jhenriquecorrea.github.io/research/</guid>
       <description>On Machine Learning DoS Attack Identification from Cloud Computing Telemetry (2019). Joao H. Correa, Patrick Marques Ciarelli, Moises R. N. Ribeiro, Rodolfo da Silva Villaca - LANCOMM Student Workshop (Latin American Student Workshop on Data Communication Networks), 2019, Gramado - RS
- Dispositivos conectados a serviço web em nuvem: complementariedade entre infraestrutura e seletividade para proteção contra DDoS. (2018). (Devices connected to the cloud web service: complementarity between infrastructure and selectivity for protection against DDoS.</description>
+Dispositivos conectados a serviço web em nuvem: complementariedade entre infraestrutura e seletividade para proteção contra DDoS. (2018). (Devices connected to the cloud web service: complementarity between infrastructure and selectivity for protection against DDoS.</description>
     </item>
     
     <item>
@@ -30,9 +25,9 @@
       <description>Enable katex by adding katex = &amp;quot;true&amp;quot; to the front matter
 +++ katex = &amp;#34;true&amp;#34; +++ It&amp;rsquo;s almost a dropin alternative to the mathjax solution,you should just choose one of them.
 Inline math looks like this
-This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} =1$ This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$
+This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$ This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$
 and with math blocks:
-$$\sum_{n=1}^{\infty} 2^{-n} =1$$ $$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$</description>
+$$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$ $$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$</description>
     </item>
     
     <item>
@@ -41,10 +36,10 @@ $$\sum_{n=1}^{\infty} 2^{-n} =1$$ $$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$</descript
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jhenriquecorrea.github.io/about/</guid>
-      <description>Education  Ph.D. in Computer Science - Computer Networks Federal University of Espírito Santo - Vitória, ES, Brazil 2017 - Present
- M.Sc. in Computer Science - Computer Networks Federal University of Paraíba - João Pessoa, PB, Brazil 2015 - 2017
- Graduated in Computer Networks Federal Institute of Education, Science and Technology of Paraíba - João Pessoa, PB, Brazil 2012 - 2015
-  Professional and Academic Experience  Researcher/Ph.</description>
+      <description>Education Ph.D. in Computer Science - Computer Networks \ Federal University of Espírito Santo - Vitória, ES, Brazil \ 2017 - 2021
+M.Sc. in Computer Science - Computer Networks \ Federal University of Paraíba - João Pessoa, PB, Brazil \ 2015 - 2017
+Graduated in Computer Networks \ Federal Institute of Education, Science and Technology of Paraíba - João Pessoa, PB, Brazil \ 2012 - 2015
+Professional and Academic Experience Assistant Professor at the Federal University of Ceará, Itapajé Campus \ UFC - Itapajé, CE, Brazil \ 2021 - Present</description>
     </item>
     
     <item>
@@ -53,7 +48,7 @@ $$\sum_{n=1}^{\infty} 2^{-n} =1$$ $$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$</descript
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jhenriquecorrea.github.io/contact/</guid>
-      <description>E-mail, jhenrique [at] gmail dot com E-mail, joao.h.correa [at] aluno dot ufes dot br \</description>
+      <description>E-mail, jhenrique [at] gmail dot com \ E-mail, joao.h.correa [at] aluno dot ufes dot br \</description>
     </item>
     
     <item>
@@ -62,8 +57,7 @@ $$\sum_{n=1}^{\infty} 2^{-n} =1$$ $$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$</descript
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jhenriquecorrea.github.io/datasets/</guid>
-      <description> Datasets  On Machine Learning DDoS Attack Detection and Identification from Cloud Computing Telemetry Available Datasets:  Training Test  Ping_Flood
-Label: 0 - Not attack 1 - Attack Label2: 0 - Client 1 - TCP SYN Flood 2 - HTTP GET Flood 3 - Ping Flood (only in Ping_Flood dataset)  Code-ML Code-selectKBest   </description>
+      <description>Datasets On Machine Learning DDoS Attack Detection and Identification from Cloud Computing Telemetry \ Available Datasets: Training Test \ Ping_Flood\ Label: \ 0 - Not attack \ 1 - Attack \ Label2: \ 0 - Client \ 1 - TCP SYN Flood \ 2 - HTTP GET Flood \ 3 - Ping Flood (only in Ping_Flood dataset) \ Code-ML Code-selectKBest </description>
     </item>
     
     <item>
@@ -72,9 +66,8 @@ Label: 0 - Not attack 1 - Attack Label2: 0 - Client 1 - TCP SYN Flood 2 - HTTP G
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jhenriquecorrea.github.io/projects/</guid>
-      <description> Projects  On Machine Learning DDoS Attack Detection and Identification from Cloud Computing Telemetry My Ph.D. thesis uses OpenStack telemetry for detect and identify, using ML, DDoS attack.
- vCPE - Network equipment virtualization Development of a vCPE (Virtual Customer Premises Equipment) prototype using the OpenStack platform as a cloud resource manager.
-  </description>
+      <description>Projects On Machine Learning DDoS Attack Detection and Identification from Cloud Computing Telemetry \ My Ph.D. thesis uses OpenStack telemetry for detect and identify, using ML, DDoS attack.
+vCPE - Network equipment virtualization \ Development of a vCPE (Virtual Customer Premises Equipment) prototype using the OpenStack platform as a cloud resource manager.</description>
     </item>
     
   </channel>
